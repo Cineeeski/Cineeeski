@@ -1,0 +1,53 @@
+# [your-handle]
+
+![Banner](github-banner.svg)
+
+**Threat Intelligence Analyst** — tracking adversaries across criminal underground ecosystems, building tooling that operationalizes intelligence at scale.
+
+---
+
+### What I do
+
+- Monitor dark web markets, fraud ecosystems, and criminal infrastructure
+- Enrich and correlate IOCs across open-source and commercial feeds
+- Map adversary behaviour to MITRE ATT&CK and produce finished intelligence
+- Build Python tooling that automates the repetitive parts of CTI work
+
+---
+
+### Currently working on
+
+- **IOC Enrichment Framework** — modular Python tool for automated IOC enrichment via VirusTotal, AbuseIPDB, OTX, URLhaus · MISP export · CLI-first
+- **OSTH** (Offensive Security Threat Hunter) certification — in progress
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3.x-3b3b3b?style=flat-square&logo=python&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-Platform-3b3b3b?style=flat-square)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-Platform-3b3b3b?style=flat-square)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-3b3b3b?style=flat-square)
+
+---
+
+### Writing & Research
+
+- 📄 **[[Title of your blog post]]** — Investigation into an underground document fraud marketplace · [[link]]
+- 🌐 Portfolio & full research archive → **[[your-handle].github.io]([[your-handle].github.io)**
+
+---
+
+### Certifications
+
+| | |
+|---|---|
+| CTIA | Certified Threat Intelligence Analyst · EC-Council · Active |
+| OSTH | Offensive Security Threat Hunter · OffSec · In Progress |
+
+---
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b3b3b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-handle])
+[![Email](https://img.shields.io/badge/Email-Contact-3b3b3b?style=flat-square&logo=gmail&logoColor=white)](mailto:[your@email.com])
