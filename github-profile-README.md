@@ -1,4 +1,4 @@
-# [your-handle]
+# Cineeeski
 
 ![Banner](github-banner.svg)
 
@@ -34,7 +34,7 @@
 ### Writing & Research
 
 - 📄 **[[Title of your blog post]]** — Investigation into an underground document fraud marketplace · [[link]]
-- 🌐 Portfolio & full research archive → **[[your-handle].github.io]([[your-handle].github.io)**
+- 🌐 Portfolio & full research archive → **[cineeeski.github.io](https://cineeeski.github.io)**
 
 ---
 
@@ -49,5 +49,5 @@
 
 ### Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b3b3b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-handle])
-[![Email](https://img.shields.io/badge/Email-Contact-3b3b3b?style=flat-square&logo=gmail&logoColor=white)](mailto:[your@email.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b3b3b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Cineeeski)
+[![Email](https://img.shields.io/badge/Email-Contact-3b3b3b?style=flat-square&logo=gmail&logoColor=white)](mailto:cfiliopo@gmail.com)
