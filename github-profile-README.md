@@ -17,8 +17,7 @@
 
 ### Currently working on
 
-- **IOC Enrichment Framework** — modular Python tool for automated IOC enrichment via VirusTotal, AbuseIPDB, OTX, URLhaus · MISP export · CLI-first
-- **OSTH** (Offensive Security Threat Hunter) certification — in progress
+- **IOC Enrichment Framework** — modular Python tool for automated IOC enrichment via VirusTotal, AbuseIPDB, OTX, URLhaus · MISP export · CLI-first · [View on GitHub](https://github.com/Cineeeski/ioc-enricher)
 
 ---
 
@@ -33,7 +32,7 @@
 
 ### Writing & Research
 
-- 📄 **[[Title of your blog post]]** — Investigation into an underground document fraud marketplace · [[link]]
+- 📄 **The Secret Scriptorium: A Medieval Tale of the Shadow Shop That Forged Identities** — Investigation into an underground document fraud marketplace · [Read on Yarix Labs](https://labs.yarix.com/2026/05/the-secret-scriptorium-a-medieval-tale-of-the-shadow-shop-that-forged-identities/)
 - 🌐 Portfolio & full research archive → **[cineeeski.github.io](https://cineeeski.github.io)**
 
 ---
@@ -43,7 +42,6 @@
 | | |
 |---|---|
 | CTIA | Certified Threat Intelligence Analyst · EC-Council · Active |
-| OSTH | Offensive Security Threat Hunter · OffSec · In Progress |
 
 ---
 
