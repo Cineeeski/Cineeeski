@@ -21,15 +21,6 @@
 
 ---
 
-### Stack
-
-![Python](https://img.shields.io/badge/Python-3.x-3b3b3b?style=flat-square&logo=python&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-Platform-3b3b3b?style=flat-square)
-![OpenCTI](https://img.shields.io/badge/OpenCTI-Platform-3b3b3b?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-3b3b3b?style=flat-square)
-
----
-
 ### Writing & Research
 
 - 📄 **The Secret Scriptorium: A Medieval Tale of the Shadow Shop That Forged Identities** — Investigation into an underground document fraud marketplace · [Read on Yarix Labs](https://labs.yarix.com/2026/05/the-secret-scriptorium-a-medieval-tale-of-the-shadow-shop-that-forged-identities/)
