@@ -1,6 +1,6 @@
 ![Banner](github-banner.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cineeeski&color=c0392b&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=Cineeeski&color=c0392b&style=flat-square)](https://github.com/Cineeeski)
 
 **Threat Intelligence Analyst** — tracking adversaries across criminal underground ecosystems, building tooling that operationalizes intelligence at scale.
 
