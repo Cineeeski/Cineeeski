@@ -1,5 +1,3 @@
-# Cineeeski
-
 ![Banner](github-banner.svg)
 
 **Threat Intelligence Analyst** — tracking adversaries across criminal underground ecosystems, building tooling that operationalizes intelligence at scale.
