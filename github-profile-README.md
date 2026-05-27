@@ -39,11 +39,11 @@
 
 | | |
 |---|---|
-| CTIA | Certified Threat Intelligence Analyst · EC-Council · Active |
+| CTIA | Certified Threat Intelligence Analyst · EC-Council · April 2025 |
 
 ---
 
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3b3b3b?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Cineeeski)
-[![Email](https://img.shields.io/badge/Email-Contact-3b3b3b?style=flat-square&logo=gmail&logoColor=white)](mailto:cfiliopo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-3b3b3b?style=flat-square&logo=gmail&logoColor=white)](mailto:filippocinelli.12@gmail.com)
